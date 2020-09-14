@@ -1,3 +1,3 @@
 # Hello-world
-first repository
+first repository/
 sdfasdfsdfs
